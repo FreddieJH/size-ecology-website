@@ -8,7 +8,7 @@ featured = "pic03.jpg"
 featuredalt = "Pic 3"
 featuredpath = "date"
 linktitle = ""
-title = "Creating a New Theme"
+title = "NEW POST. WOW!"
 type = "post"
 
 +++
