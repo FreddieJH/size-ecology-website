@@ -2,7 +2,7 @@
 author = "Freddie Heather"
 categories = ["Test blog"]
 tags = ["tutorial", "size", "ecology"]
-date = "14-02-2019"
+date = "2019-02-04"
 description = "testing a blogpost"
 featured = "pic03.jpg"
 featuredalt = "Pic 3"
