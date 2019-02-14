@@ -119,19 +119,21 @@ canonifyURLs = true
 [[menu.main]]
   name = "About"
   url = "/about/"
-  identifier = "fa fa-id-card-o"
+  identifier = "fa fa-newspaper-o"
   weight = 2
 
 [[menu.main]]
   name = "People"
   url = "/people/"
-  identifier = "fa fa-newspaper-o"
+  identifier = "fa fa-id-card-o"
+  #identifier = "fa fa-newspaper-o"
   weight = 3
 
 [[menu.main]]
   name = "Blog"
   url = "/blog/"
   identifier = "fa fa-list"
+  #identifier = "fa fa-newspaper-o"
   weight = 4
 
 [[menu.main]]
@@ -143,7 +145,7 @@ canonifyURLs = true
 [[menu.main]]
   name = "Contact"
   url = "/contact/"
-  identifier = "fa fa-envelope-o"
+  identifier = "fa fa-envelope-o" 
   weight = 6
   
 [[menu.main]]
